@@ -1,0 +1,49 @@
+.principal {
+	flex-direction: row;
+	display: flex;
+}
+
+.borda {
+	background: #1DA1F2;
+
+
+}
+
+.caixa {
+	position: relative;
+    top: 35px;
+    left: 575px;
+    bottom: 400px;
+    right: 300px;
+    background: white;
+	width: 170px;
+	height:  170px;
+	border-radius: 50%;
+	border: 1px solid #707070;
+	opacity: 1;
+
+}
+
+.colaboradores {
+	color: white;
+	position: relative;
+	left: 730px;
+	bottom: 150px;
+
+}
+
+.area {
+    color: white;
+    position: relative;
+    bottom: 160px;
+    left: 760px;
+
+}
+
+.texto-colaboradores {
+    color: black;
+    position: relative;
+    bottom: 160px;
+    left: 760px;
+    opacity: 1;
+}
